@@ -1,0 +1,6 @@
+What a thread would do when interrupted, is entirely up to that 
+thread.
+The thread can try and catch the InterruptedException and process it.
+Or simply throw it back.
+The sleep method would simply cancel the timer and return when 
+interrupted.

@@ -1,0 +1,6 @@
+Thead.sleep() method suspends thread execution for the 
+specified period.
+Precise timing cannot be guaranteed.
+How to wake up a sleeping thread?
+When the sleep time expires.
+By an interrupt
